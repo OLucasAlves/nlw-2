@@ -76,3 +76,8 @@ $ cd web
 $ npm install
 $ npm start
 
+# For mobile project (React Native)
+$ cd mobile
+$ yarn install
+$ yarn start
+
